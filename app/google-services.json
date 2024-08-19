@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433445098723",
+    "project_id": "iwadii-15e00",
+    "storage_bucket": "iwadii-15e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433445098723:android:db24eb2cb2cce0aacd61d6",
+        "android_client_info": {
+          "package_name": "com.newsapp.annexnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKGfSS0xlhT_-eQ-Zcnl54xJY1_ZYk1kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
